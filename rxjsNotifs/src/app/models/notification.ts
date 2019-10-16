@@ -5,7 +5,7 @@ export class Notification {
         public title: string,
         public message: string,
         public timeout: number,
-      ) { }
+    ) { }
 }
 
 export enum NotificationType {
